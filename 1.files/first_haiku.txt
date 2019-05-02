@@ -1,0 +1,5 @@
+Yesterday it worked.
+Today it is not working.
+Coding is like that.
+
+(Programmer's Haiku)
